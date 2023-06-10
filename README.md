@@ -16,3 +16,7 @@ Dependencies -
 `Spring Boot DevTools`, `Lombok`, `Spring Configuration Processor`, `Spring Web`, `MySQL Driver`, `Spring DATA JPA`**  
 - **Build Tool - `Gradle`**
 <br />
+
+## 프로젝트 내용
+- JPA를 이용하여 게시판 CRUD, 유저 시스템 구현
+- JPA 이론 정리 - JPA, Hibernate, Spring Data JPA
